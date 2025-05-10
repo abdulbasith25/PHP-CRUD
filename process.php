@@ -23,7 +23,7 @@ if (isset($_POST["edit"])) {
     $sqlUpdate = "UPDATE books SET title = '$title', type = '$type', author = '$author', description = '$description' WHERE id='$id'";
     if(mysqli_query($conn,$sqlUpdate)){
         session_start();
-        $_SESSION["update"] = "Book Updated Successfully!";
+        $_SESSION["update"] = "Book Updated Successfully!!";
         header("Location:index.php");
     }else{
         die("Something went wrong");

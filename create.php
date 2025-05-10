@@ -29,7 +29,7 @@
                     <option value="Adventure">Adventure</option>
                     <option value="Crime">Crime</option>
                     <option value="Fantasy">Fantasy</option>
-                    <option value="Horror">Horror</option>
+                    <option value="Horror">HORROR</option>
                 </select>
             </div>
             <div class="form-element my-4">

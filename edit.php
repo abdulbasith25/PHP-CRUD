@@ -10,7 +10,7 @@
 <body>
     <div class="container my-5">
     <header class="d-flex justify-content-between my-4">
-            <h1>Edit Book</h1>
+            <h1>EDIT BOOK</h1>
             <div>
             <a href="index.php" class="btn btn-primary">Back</a>
             </div>
