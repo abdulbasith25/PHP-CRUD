@@ -19,7 +19,7 @@
         <header class="d-flex justify-content-between my-4">
             <h1>Book List</h1>
             <div>
-                <a href="create.php" class="btn btn-primary">Add New Book</a>
+                <a href="create.php" class="btn btn-primary">Addd New Book</a>
             </div>
         </header>
         <?php
